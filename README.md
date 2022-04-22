@@ -1,2 +1,2 @@
 # Perfect
-The (almost) perfect compiler. Or it will be (hopefully someday)
+The (almost) perfect compiler. Or it will be (hopefully someday). The goal is to create a language that is easy to learn, easy to use, versatile, and efficient. It will apply to the zero-overhead abstraction (what you don't use, you don't pay for). If there is a problem with any features of the language or the standard library, post an issue on the github, so that it can be improved. Hopefully one day it will live up to it's name. 
